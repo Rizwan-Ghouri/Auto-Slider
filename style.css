@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.main_continer{
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    margin: 0%;
+}
+.continer{
+    border: 5px solid #ffffff;
+    width: 55%;
+    height: 522px;
+    text-align: center;
+    border-radius: 45px;
+    overflow: hidden;
+    margin: 4%;
+    box-shadow: #ff0000 0px 0px 50px;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
